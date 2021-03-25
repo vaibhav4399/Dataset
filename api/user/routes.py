@@ -5,9 +5,9 @@ from user.models import User
 user = Blueprint("user", __name__)
 
 
-@user.route("/login/")
+@user.route("/login/", methods=["POST"])
 def login():
-    return make_response(jsonify(data="login"), 200)
+    return User().login()
 
 
 @user.route("/signup/", methods=["POST"])
