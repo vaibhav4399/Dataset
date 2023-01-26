@@ -1,0 +1,2440 @@
+kill -9 49593
+kill -9 49847
+kill -9 49971
+kill -9 50141
+kill -9 50359
+kill -9 50586
+kill -9 50696
+kill -9 50913
+kill -9 51188
+kill -9 53239
+kill -9 53644
+lsof -i tcp:3000
+kill -9 53790
+heroku logs --tail
+sudo apt-get install heroku
+sudo systemctl enable snapd.service
+sudo systemctl start snapd.service
+sudo snap install heroku --classic
+sudo heroku --version
+which heroku
+locate leroku
+locate heroku
+heroku --version
+sudo heroku
+heroku login
+sudo heroku login
+snap heroku
+snap find heroku
+heroku
+heroku local
+/snap/bin/heroku --version
+/snap/bin/heroku login
+cd github/todo
+/snap/bin/heroku git:clone -a toodoolists
+/snap/bin/heroku logs --tail
+git commit -m "new file"
+/snap/bin/heroku create
+git commit -m "new"
+/snap/bin/heroku local
+sudo systemctl stop snapd.service
+sudo systemctl disable snapd.service
+/snap/bin/heroku 
+sudo /snap/bin/heroku 
+sudo /snap/bin/heroku --help
+rm $(which heroku)
+sudo npm update -g
+npm i -g heroku
+sudo npm i -g heroku
+heroku --help
+heroku status
+npm run devstart
+git commit -am "added delete"
+git push heroku master
+mongo
+mongod --dbpath=data
+sudo ./xampp-linux-x64-7.3.10-1-installer.run
+wget https://dev.mysql.com/get/mysql-apt-config_0.8.15-1_all.deb
+ls -lh mysql-apt-config_0.8.15-1_all.deb
+sudo apt install ./mysql-apt-config_0.8.15-1_all.deb
+sudo dpkg -i mysql-apt-config_0.8.15-1_all.deb
+cd /etc/apt/trusted.gpg.d/
+sudo mysql -u frigus -p 50Sotuso@
+sudo mysql -u frigus 
+sudo service mysql stop
+sudo service mysql start
+sudo systemctl start mysql.service
+sudo systemctl stop mysql.service
+sudo systemctl status mysql.service
+mysqld
+mysqld -- help
+mysqld --help
+mysqld --verbose --help
+mysqld start
+sudo dpkg -i mysql-workbench-community_8.0.22-1ubuntu20.10_amd64.deb
+sudo apt install --fix-broken
+sudo dpkg -i mysql-workbench-community-dbgsym_8.0.22-1ubuntu20.10_amd64.deb
+sudo apt-get install mysql-workbench-community-dbgsym
+mysqlaccess 
+mysqladmin
+mysql-
+sudo mysql-workbench-bin
+sudo apt-get install libzip.so.5
+sudo apt-get install libzip.so
+sudo apt-get install mysql-workbench
+sudo apt-get install libzip5
+sudo dpkg -i mysql-workbench-community_8.0.22-1ubuntu20.04_amd64.deb
+sudo apt-get install libzip2
+sudo apt-get install libzip
+sudo apt --fix-broken install
+django-admin startproject wordcount
+sudo apt-get install atom
+sudo systemctl status snap
+sudo systemctl status snapd.service
+python -m pip install 'python-language-server[all]'
+atobm
+atom --help
+atom -v
+sudo apt-get purge atom
+atom 
+[200~python -m pip install 'python-language-server[all]'
+python3 -m pip install 'python-language-server[all]'\
+python3 -m pip3 install 'python-language-server[all]'
+python3 -m site --user-site
+sudo python3 -m site --user-site
+python3 -m pip3 install mypy
+python3 -m pip install mypy
+sudo pip3 install pyflakes
+sudo apt-get install python-pyflakes
+sudo apt-get install python3-pyflakes
+which pyflakes
+which python3-pyflakes
+apm install kite
+bash -c "$(wget -q -O - https://linux.kite.com/dls/linux/current)"
+sudo apt-get install pylama
+which pylama
+pip3 install pylama
+pip3 install pyflakes
+pip3 install pylama pylama-pylint
+pip3 install pylint
+pip3 install matplotlib
+pip3 install pgmpy
+sudo pip3 install matplotlib
+sudo pip3 install sklearn
+python -m pip show scikit-learn
+python3 -m pip3 show scikit-learn
+python -m pip3 show scikit-learn
+pythonw -m pip show scikit-learn
+python3 -m pip show scikit-learn
+sudo apt-get install python3-sklearn python3-sklearn-lib python3-sklearn-doc
+sudo apt-get install python3-sklearn python3-sklearn-lib
+which pylint
+sudo python3 mlpro.py
+sudo pip install matplotlib
+pip install matplotlib
+python3 dvsdv.py
+sudo mkdir webproject
+sudo mkdir html
+sudo touch index.php
+sudo apt-get install php-cs-fixer
+sudo apt-get install phpcbf
+sudo mv html php
+sudo mv index.php ./php
+wget https://cs.symfony.com/download/php-cs-fixer-v2.phar -O php-cs-fixer
+sudo mv php-cs-fixer /usr/local/bin/php-cs-fixer
+atom
+touch connection.php
+sduo touch connection.php
+sudo touch connection.php
+sudo touch authentication.php
+sudo mv index.php ..
+sudo mv index.php index.html
+touch register.php
+sudo touch register.php
+cd .. 
+sudo touch register.html
+sudo touch login.html
+sudo mv login.html ./webproject
+cd webproject
+sudo touch .htaccess
+touch authentication.html
+sudo touch authentication.html
+touch Telegram.desktop
+sudo cp Telegram /usr/bin
+Telegram
+sudo rm Telegram
+sudo mv Telegram.desktop /usr/share/applications
+sudo leafpad Telegram.desktop
+sudo rm -rf Telegram
+sudo apt-get install telegram
+Telegram desktop
+sodu Telegram
+sudo Telegram
+sudo rm Telegram.desktop
+sudo rm -rf /usr/bin/Telegram
+sudo cp -R Telegram /usr/bin
+sudo cp telegram-icon-6245.png /usr/bin/Telegram
+sudo cp Telegram.desktop /usr/share/applications
+sudo apt-get --fix-missing install
+sudo apt auto
+sudo apt --fix-missing install
+sudo apt-get install rhythmbox
+git clone https://github.com/mukeshphulwani66/Instagram-clone-MERN-Stack.git
+cd /home/frigus/Videos/Tutorials/Python/python-and-django-full-stack-web-developer-bootcamp
+touch asjcs.srt
+echo dsc
+echo $Home
+sudo mkdir admin
+touch adminlogin.php
+sudo touch adminlogin.php
+sudo rm authentication.html
+sudo rm register.php
+sudo mkdir pages
+sudo touch home.php
+sudo mkdir layouts
+cd layouts
+sudo touch navbar.php
+cd pages/layouts
+sudo touch footer.php
+sudo mkdir css
+sudo mkdir js
+sudo mkdir images
+cd cdd
+sudo touch home.css
+sudo mkdir livingroom
+sudo rmdir livingroom
+sudo touch livingroom.php
+sudo mv living.jpg /opt/lampp/htdocs/webproject/images
+sudo touch search.php
+cd adminhome.php
+sudo touch adminauth.php
+sudo touch adminhome.php
+sudo touch livingadd.php
+sudo touch add.php
+unity
+locate unity
+cd cd
+sudo touch livingroom.css
+sudo touch bedroom.php
+sudo touch bedadd.php
+python3 sdv.py
+sudo pip3 install scikit-learn
+python -v
+python3-pip
+python3-pip3
+pip3 list pandas
+python3 mlpro.py
+sudo pip3 install pgmpy.interface
+sudo pip3 install pgmpy
+python3 lab7.py
+python3 lab1.py
+python3 lab-1.py
+python3 Lab-1.py
+sudo touch logout.php
+sudo mv livingroom.php LivingRoom.php
+sudo mv bedroom.php Bedroom.php
+sudo touch UserProfile.php
+sudo mv update-left-rotation.png /opt/lampp/htdocs/webproject/images
+cp images
+cd images
+sudo mv update-left-rotation.png update.png
+sudo touch profile.css
+sudo touch profileupdate.php
+sudo touch profile.js
+sudo touch deleteuser.php
+sudo touch view.php
+sudo mv view.php ../pages
+sudo rm view.php
+sudo mv buy.php viewprod.php
+sudo touch view.css
+sudo rm LivingRoom.php
+sudo rm Bedroom.php
+sudo touch viewprod.css
+sudo rm adminauth.php
+gedit calc.html
+php sdj.php
+sudo pip3 install bokeh
+sudo mv EmpOrder.php /opt/lampp/htdocs
+wget -O- https://updates.signal.org/desktop/apt/keys.asc |\\
+  sudo apt-key add -
+echo "deb [arch=amd64] https://updates.signal.org/desktop/apt xenial main" |\\
+  sudo tee -a /etc/apt/sources.list.d/signal-xenial.list
+sudo apt update && sudo apt install signal-desktop
+sduo umount /dev/sdb1
+sudo umount /dev/sdb1
+sudo mkfs.ntfs /dev/sdb1
+df -h
+sudo rmdir data
+sudo rm -eff data
+sudo rm -rf data
+sudo apt-get install mariadb-server
+sudo /opt/lampp/lampp stp
+service mysqld restart
+service mysqld start
+mysql_upgrade -u root -p
+mysql_upgrade -u root
+mysql_upgrade
+sudo mysql_upgrade
+sudo mysql_upgrade --force
+sudo mysql_upgrade -u root
+sudo service mysqld restart
+cd /opt/lampp/phpmyadmin
+leafpad config.inc.php
+sudo service mysqld status
+sudo service mysqld stop
+sudo leafpad config.inc.php
+sudo /opt/lampp/bin/mysql_upgrade
+sudo touch adminadd.php
+sudo /opt/lampp/lampp restart
+sudo mv deleteuser.php ./delete.php
+sudo rm -rf images
+sudo touch viewcart.php
+sudo touch cart.php
+php -a assd.php
+leafpad assd.php
+sudo touch style.css
+sudo pip3 install scikit-lego
+cleat
+systemctl service apache2 status
+systemctl apache2 status
+systemctl mysqld start
+systemctl servicemysqld start
+systemctl service mysqld start
+service bluetooth enable
+service bluetooth start
+systemctl status snapd
+systemctl status bluetooth
+service bluetooth stop
+git clone https://github.com/swaroop2105/plantArenaDev.git
+sudo touch something.php
+sudo touch something1.php
+sudo touch buy.php
+cd pages
+sudo touch vieworder.php
+cd php
+sudo touch update.php
+cd admin
+sudo touch adminedit.php
+touch assd.php
+php assd.php
+cd css
+cd footer.css
+sudo touch footer.css
+sudo mv style.css register.css ./css/
+sudo mv login.php login11.php
+sudo mv register.php register1.php
+sudo mv register.html register.php
+sudo rm login.php
+sudo mv login.html login.php
+sudo mv login.php /opt/lampp/htdocs/webproject
+sudo mv login.html style.css register.html register.css /opt/lampp/htdocs/webproject
+cd /opt/lampp/htdocs/
+python3 lab3.py
+python3 lab9.py
+/usr/games/sl
+ls /usr/games
+/usr/games/hoichess
+/usr/games/hoixiangqi
+sudo apt-get install jp2a
+jp2a â€ƒ´invert â€ƒ´ size=85x20 /home/frigus/Pictures/F.jpeg\
+jp2a â€ƒ´invert â€ƒ´size=85x20 /home/frigus/Pictures/F.jpeg\
+jp2a -invert â€ƒ´size=85x20 /home/frigus/Pictures/F.jpeg\
+jp2a -i â€ƒ´size=85x20 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=85x20 /home/frigus/Pictures/Fnew.png\
+jp2a -i --size=85x20 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=65x10 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=65x15 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=65x20 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=65x30 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=65x30 --colors=red /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=65x30 --blue=1.1 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=65x30 --blue=1.0 /home/frigus/Pictures/Fnew.png\
+jp2a -i --size=65x30 --blue=1.0 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=50x30 --blue=1.0 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --blue=1.0 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors=cyan /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --color=cyan /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --clear --color=cyan /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --clear --colors=blue /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --clear /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --grayscale --clear /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --grayscale --clear --colors=cyan /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --grayscale --clear --colors="cyan" /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --grayscale --clear --colors /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --clear --colors /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --grayscale --clear --colors --color-depth=24 /home/frigus/Pictures/F.jpeg\
+jp2a --size=80x30 --grayscale --clear --colors --color-depth=24 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --grayscale --clear --colors --color-depth=8 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --color-depth=8 --blue=1.0 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --chars=fF --color-depth=8 --blue=1.0 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --chars=F --color-depth=8 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --color-depth=8 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --color-depth=4 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --color-depth=4 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --color-depth=8 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --color-depth=16 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --color-depth=24 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --color-depth=4 --blue=0.5 /home/frigus/Pictures/F.jpeg\
+man jp2a
+jp2a -i --size=80x30 --colors --color-depth=4 --red=0.5 --green=0.0 --blue=0.5 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --red=0.5 --green=0.0 --blue=0.5 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --grayscale --red=0.5 --green=0.0 --blue=0.5 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --grayscale --colors /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --red=1.0 --green=0.0 --blue=0.0  /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30  /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --fill /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --fill --html /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --fill --color-depth=24 /home/frigus/Pictures/F.jpeg\
+jp2a -i --size=80x30 --colors --fill --color-depth=24 /home/frigus/Pictures/Frigus.jpeg\
+jp2a -i --size=80x30 --colors --fill --color-depth=8 /home/frigus/Pictures/Frigus.png\
+jp2a -i --size=80x30 --colors --fill --color-depth=4 /home/frigus/Pictures/Frigus.png\
+jp2a  --size=80x30 --colors --fill --color-depth=4 /home/frigus/Pictures/Frigus.png\
+jp2a -i --size=80x30 --colors --fill --color-depth=24 /home/frigus/Pictures/Frigus.png\
+jp2a -i --size=80x30 --grayscale--colors --fill --color-depth=24 /home/frigus/Pictures/Frigus.png\
+jp2a -i --size=80x30 --grayscale --colors --fill --color-depth=24 /home/frigus/Pictures/Frigus.png\
+jp2a -i --size=80x30 --grayscale --colors --fill --color-depth=24 --blue=1.0 /home/frigus/Pictures/Frigus.png\
+jp2a -i --size=80x30 --grayscale --colors--color-depth=24 --blue=1.0 /home/frigus/Pictures/Frigus.png\
+jp2a -i --size=80x30 --grayscale --colors --color-depth=24 --blue=1.0 /home/frigus/Pictures/Frigus.png\
+jp2a -i --size=80x30 /home/frigus/Pictures/Frigus.png\
+jp2a--size=80x30 /home/frigus/Pictures/Frigus.png\
+jp2a --size=80x30 /home/frigus/Pictures/Frigus.png\
+jp2a --help  --size=80x30 /home/frigus/Pictures/Frigus.png\
+jp2a -b --size=80x30 /home/frigus/Pictures/Frigus.png\
+jp2a -d --size=80x30 /home/frigus/Pictures/Frigus.png\
+jp2a --colors --size=80x30 /home/frigus/Pictures/Frigus.png\
+jp2a --colors -x --size=80x30 /home/frigus/Pictures/Frigus.png\
+jp2a -f /home/frigus/Pictures/Frigus.png\
+jp2a -fill  /home/frigus/Pictures/Frigus.png\
+jp2a --fill  /home/frigus/Pictures/Frigus.png\
+jp2a --fill --colors  /home/frigus/Pictures/Frigus.png\
+jp2a --fill --colors --blue=1.0 --red=0.0 --green=0.0 /home/frigus/Pictures/Frigus.png\
+jp2a --fill --colors --color-depth=24 --blue=1.0 --red=0.0 --green=0.0 /home/frigus/Pictures/Frigus.png\
+jp2a --fill --grayscale --color-depth=24 --blue=1.0 --red=0.0 --green=0.0 /home/frigus/Pictures/Frigus.png\
+jp2a --grayscale --color-depth=24 --blue=1.0 --red=0.0 --green=0.0 /home/frigus/Pictures/Frigus.png\
+jp2a --grayscale --color --color-depth=24 --blue=1.0 --red=0.0 --green=0.0 /home/frigus/Pictures/Frigus.png\
+jp2a --grayscale --colors --color-depth=24 --blue=1.0 --red=0.0 --green=0.0 /home/frigus/Pictures/Frigus.png\
+jp2a --grayscale --colors -fill --color-depth=24 --blue=1.0 --red=0.0 --green=0.0 /home/frigus/Pictures/Frigus.png\
+jp2a --grayscale --colors --fill --color-depth=24 --blue=1.0 --red=0.0 --green=0.0 /home/frigus/Pictures/Frigus.png\
+jp2a --grayscale --color=red --color-depth=24 --blue=1.0 --red=0.0 --green=0.0 /home/frigus/Pictures/Frigus.png\
+jp2a --size=50x15 /home/frigus/Pictures/Frigus.png\
+jp2a --size=50x10 /home/frigus/Pictures/Frigus.png\
+jp2a --size=40x10 /home/frigus/Pictures/Frigus.png\
+jp2a --size=35x10 /home/frigus/Pictures/Frigus.png\
+jp2a --size=35x15 /home/frigus/Pictures/Frigus.png\
+jp2a --size=40x15 /home/frigus/Pictures/Frigus.png\
+jp2a --help
+jp2a  /home/frigus/Pictures/Frigus.png\
+jp2a --term-width=10 /home/frigus/Pictures/Frigus.png\
+jp2a --term-width /home/frigus/Pictures/Frigus.png\
+jp2a --term-height /home/frigus/Pictures/Frigus.png\
+cd plantArenaDev
+jls ~/Pictures/Frigus.png
+jls -i PNG ~/Pictures/Frigus.png
+jls -i png ~/Pictures/Frigus.png
+man jls
+sudo apt-get install lolcat
+echo "Hello how are you"|lolcat
+lolcat -a
+lolcat -t
+lolcat -S
+lolcat -h
+lolcat --freq=0.5
+lolcat --freq=0.5 --spread=5.0
+echo "Hello how are you"|lolcat --freq=0.6 --spread=5.0
+sudo --elp
+sudo -
+/opt/lampp/lampp start
+sudo cd /root/Pictures
+cd /root
+cd cd ..
+cd Pictures
+ls -a Frigus.png
+ls -la Frigus.png
+sudo mv /root/Pictures/Frigus.png ~/Pictures
+jp2a --term-height /home/frigus/Frigus.png | lolcat --freq=0.6 --spread=5.0
+jp2a --term-height /home/frigus/Pictures/Frigus.png | lolcat --freq=0.6 --spread=5.0
+sudo cp ~/Pictures/Frigus.png /root/Pictures
+which jp2g
+j2pg
+which jp2a
+visudo
+visudo --help
+visudo -s
+sudo visudo -s
+sudo leafpad /etc/sudoers
+jp2g /root/Pictures/Frigus.png
+jp2a /root/Pictures/Frigus.png
+echo jp2a --term-height ~/Pictures/Frigus.png | lolcat --freq=0.6 --spread=5.0
+figlet 
+figlet --help
+jp2a --term-height ~/Pictures/Frigus.png | lolcat --freq=0.6 --spread=5.0 | figlet
+jp2a --term-height ~/Pictures/Frigus.png | figlet
+jp2a --term-height ~/Pictures/Frigus.png | figlet -c
+jp2a --term-height ~/Pictures/Frigus.png ic
+jp2a --term-height ~/Pictures/Frigus.png -c
+figlet ~/Pictures/Frigus.png
+man figlet
+figlet-figlet
+figlet-figlet --help
+figlet-figlet -h
+jp2a --term-height ~/Pictures/Frigus.png --background
+jp2a --term-height ~/Pictures/Frigus.png --background=dark
+jp2a --term-height ~/Pictures/Frigus.png --background=light
+jp2a --term-zoom ~/Pictures/Frigus.png 
+jp2a --term-height ~/Pictures/Frigus.png | lolcat --freq=0.6 --spread=5.0 -a
+jp2a --term-zoom ~/Pictures/Frigus.png | lolcat --freq=0.6 --spread=5.0 -a
+jp2a --term-zoom ~/Pictures/Frigus.png | lolcat --freq=0.6 --spread=5.0 --seed=5
+jp2a --term-zoom ~/Pictures/Frigus.png | lolcat --freq=0.6 --spread=5.0 -t
+touch timetable.html
+cd js
+sudo touch sett.js
+sudo /opt/lampp/lampp sop
+sudo /opt/lampp/lampp stop
+sudo rm login11.php
+service bluetooth status
+sudo /opt/lampp/lampp start
+sudo /opt/lampp/lampp status
+sudo touch counter.php counter.txt
+chmod 664 counter.txt
+sudo chmod 664 counter.txt
+ls -l counter.txt
+sudo chmod 666 counter.txt
+sudo touch time.php
+sudo touch match.php
+systemctl start apache2
+sudo 
+cd /var/www/html
+sudo mkdir web
+sudo touch 10.php
+service mysqld status
+mysql -u root -p
+sudo mysql -u frigus -p
+sudo mysql -u frigus
+mysql -u frigus
+systemctl stop mysqld
+systemctl status mysqld
+systemctl stop apache2
+systemctl status apache2
+python3 lab4.py
+python3 lab2.py
+[200~find . -type f -perm 0777 -print
+~find . -type f -perm 0777 -print\
+find . -type f -perm 0666 -print\
+find . -type f -perm 0777 -print\
+find .
+find . -type f
+find . -type d
+find . -type f -perm 0755 -print
+find . -type f -perm 0755
+find . -type f -perm 0644
+find . -type d -perm 0644
+ls -l 
+diff --help
+diff -q am.c arrayrotate.cpp
+diff  am.c arrayrotate.cpp
+javac Array.java
+java Array
+chmod 755 Development Misc Python SQL Web 
+chmod 744 .
+chmod --help
+chmod 744 -R ./
+which zsh
+chsh -s /usr/bin/zsh
+cd S
+cd 5.\ Site\ \#2\ -\ Your\ Personal\ Portfolio
+killall vlc
+ls -la
+gedit sdf.html
+google-chrome --version
+google-chrome-stable --version
+javac Linkedlist.java
+java Linkedlist
+cd wordcount
+which djano-admin
+which django-admin
+sudo apt-get install postgresql postgresql-contrib
+postgresql
+service postgresql start
+sudo service postgresql start
+service postgresql status
+psql
+psql -u  root
+psql --help
+psql -U frigus
+psql -U "frigus"
+psql postgres
+psql -h localhost -U frigus
+psql -h localhost -U frigus -w
+initdb
+init
+sudo leafpad /etc/postgresql/13/main/pg_hba.conf
+sudo leafpad /etc/postgresql/12/main/pg_hba.conf
+sudo -u postgres
+sudo -u postgres -i
+systemctl status postgresql
+sudo psql -U postgres
+sudo psql -U frigus
+sudo psql -h localhost -U frigus
+sudo psql -h localhost -U root
+psql -U postgres -W
+systemctl stop postgresql
+sudo apt-get uget
+sudo apt-get install uget
+sudo apt-get install JDownloader
+systemctl start postgresql.service
+psql -U postgres
+psql -h locaalhost -U root
+psql -h localhost -U root
+psql -h localhost -U root;
+sudo -u postgres psql
+psql -U root
+psql -h localhost -U postgres
+psql -h localhost -d template1 -U root
+systemctl stop postgresql.service
+virtualenv myvirtualenv
+source myvirtualenv/bin/activate
+python3 --version
+source myvirtualenv/bin/
+ls myvirtualenv/bin
+deactivate 
+rm -rf myvirtualenv
+cd myvirtualenv
+python3 -m vnev myenv
+sudo apt-get install python3-venv
+python3 -m venv myenv
+cd myenv
+rm -rf first
+venv bin/activate
+django-admin startproject first
+cd first
+rm -rf myenv
+grep -h
+grep --help
+cat --help
+ls /usr/share/file/magic/
+leafpad /usr/share/file/magic.mgc
+leafpad /usr/share/file/magic
+ls -a /usr/share/file/magic
+ls -a /usr/share/file/magic/
+file freedb.txt
+file san2calss
+file 'Linux items'
+file Linux\ items
+file hello.sh
+file -i freedb.txt
+file --help
+file -im freedb.txt
+passwd --help
+passwd -S
+passwd -a
+passwd -a frigus
+passwd -S frigus
+uname
+uname -sr
+who -b
+who -s
+who -d
+who -H
+who -Hp
+who -Hpr
+who -Hr
+who -r
+who -sr
+who -srH
+who -arH
+whoami --help
+whoami -u
+whoami -un
+id -un
+id --help
+id -a
+who --lookup
+echo "2+3" | bc
+tty --help
+pwd -L
+pwd -p
+pwd -P
+pwd --help
+pwd -h
+cat >> skdjfs.txt
+cat > skdjfs.txt
+cat skdjfs.txt
+ls -l *s*
+ls -l
+who am i
+python3 ssss.py
+diff san2calss SAN\ class
+find --help
+vi ssss.py
+python3 -m django --version
+python3 -VV
+python3 -VVV
+pip3 --help
+python3 -m pip3 --help
+python3 -m pip --help
+pip show pip
+pip3 show pip3
+ls -l `which pip3`
+ls -l `which pip`
+sudo pip3 install  --upgrade pip3
+find . -type d -perm 0755
+find . -type d -name `git*`
+find . -type d -name git.*
+find . -type d -name "git.*"
+find . -type d -name "git*"
+cd .config
+ls user-dirs.dirs
+ls -l  user-dirs.dirs
+ls -l  user-dirs.locale
+leafpad user-dirs.locale
+leafpad user-dirs.dir
+leafpad user-dirs.dirs
+cd /etc/xdg/gtk-3.0
+leafpad settings.ini
+cd plasma-workspace
+cd env
+leafpad kali-themes.sh
+cd ../..
+leafpad user-dirs.conf
+leafpad user-dirs.defaults
+cd Thunar
+leafpad uca.xml
+leafpad uca.xml.original
+cd menus
+leafpad gnome-applications.menu
+more arrayrotate.cpp
+more SAN\ class
+more SAN\ class -p
+more SAN\ class -l
+ls "git*"
+echo '<-$1500.**>; (update?) [y|n]'
+echo '<-$1500.**>; (update?) [y|n]';
+echo <-$1500.**>; (update?) [y|n]
+echo "<-$1500.**>; (update?) [y|n]"
+echo "<-\$1500.**>; (update?) [y|n]"
+echo "<-'$'1500.**>; (update?) [y|n]"
+echo "<-\'$\'1500.**>; (update?) [y|n]"
+echo "<-{$}1500.**>; (update?) [y|n]"
+echo "<-[$]1500.**>; (update?) [y|n]"
+ls -f
+ls --help
+ls --file-type="txt"
+ls --file-type
+ls -F
+ls -F | grep -v /
+echo $shell
+echo --help
+echo --h
+echo -h
+echo -h sd
+man echo
+echo -e acj\n
+echo  acj\n
+echo n
+echo \n
+echo -e \n
+echo -E \n
+echo -E \\n
+echo  \\n
+$PATH
+$HOME
+echo $HOME
+echo $HOST
+echo $OSTYPE
+echo $PSQ
+echo $PS1
+echo $PS2
+echo $HISTSIZE
+leafpad /etc/profile
+leafpad /etc/environment
+jobs 1
+ps aux
+ps -a
+ps -u
+ps -aux
+bg ls
+ls git*
+ls git.*
+find . -type d -name git*
+fg %1
+ps -f
+ps -aux | grep Z
+ps -ef | grep ?
+ps -euf | grep ?
+ps -efaux | grep ?
+crontab -l
+cron -l
+ps --help
+ps -e
+ps -x
+who -a
+who -aH
+who -aHq
+sdcsd
+cat arrayrotate.cpp
+chmod u+x omi.awk
+leafpad omi.awk
+./omi.awk /etc/passwd
+expr 2+3
+expr 2 + 3
+leafpad studentscore.txt
+chmod u+x scores.sh
+./hello.sh
+leafpad hello.sh
+ls -l scores.sh
+./scores.sh dxf
+./scores.sh
+leafpad scores.sh
+./scores.sh scores.sh
+./scores.sh sd
+grep -n 80 studentscore.txt
+grep -n 80$ studentscore.txt
+grep -n 80$ studentscore.txt | cut 
+grep -n 80$ studentscore.txt | cut -c1
+cat $1 | cut -d '|' -f 3,1
+cat studentscore.txt | cut -d '|' -f 3,1
+cat studentscore.txt | cut -d '|' -f -3,1-
+cat studentscore.txt | cut -d '|' -f -3,1
+cat studentscore.txt | cut -d '|' -f 1,3
+cat studentscore.txt | cut -d '|' -f 1,3 -s
+cat studentscore.txt | cut -d '|' -f 1,3 --output-delimiter=" "
+./scores.sh studentscore.txt
+seq 1 0.1 19
+seq --help
+seq 1 0.1 19 | grep -c .0$
+sed -e 1,10 arrayrotate.cpp
+sed 1,10 arrayrotate.cpp
+sed 1,10p arrayrotate.cpp
+sed "1,10p" arrayrotate.cpp
+sed "1,10" arrayrotate.cpp
+sed -n 1,10 arrayrotate.cpp
+sed -n 1,10p arrayrotate.cpp
+iwconfig
+su -
+grep -i "unix" * | wc -l
+cat - | grep -i "unix"  | wc -l
+cat - | grep -i "unix" 
+cat - | grep -ic "unix" 
+cat - | awk {print a}
+cat - | awk { print a }
+cat - | awk -F" " { print a }
+cat - | awk '{ print a }'
+cat - | awk '{ for(i=0;i<NF;i++) print a[i] }'
+javac Solution.java
+java Solution
+javac solution2.java
+java solution2
+javac Solution2.java
+java Solution2
+sodo dpkg -i 
+sudo dpkg -i 
+sudo dpkg -i code_1.53.2-1613044664_amd64.deb
+/usr/bin/python3 "/home/frigus/github/codechef january/pointofimpact.py"
+tar -C /usr/local -xzf go1.15.8.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.15.8.linux-amd64.tar.gz
+cd /usr/local/go
+export PATH=$PATH:/usr/local/go/bin
+go VERSION
+cd /root/
+sudo cd /root/
+sudo cd /root
+sudo cd /
+cd root
+sudo cd root
+su frigus
+echo $SHELL
+sudo atom
+sudo atom --no-sandbox
+go version
+echo $PATH
+golint
+go get -u golang.org/x/tools/cmd/goimports~
+go get -u golang.org/x/tools/cmd/goimports
+which golint
+go get golang.org/x/tools/gopls
+go fix
+leafpad something.txt
+awk ' BEGIN{FS=";"} {print $0} ' something.txt
+awk ' BEGIN{FS=";"} {print $1} ' something.txt
+awk ' BEGIN{FS=";"} { /him/ print $1} ' something.txt
+awk ' BEGIN{FS=";"} { "/him/" print $1} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) != 0){} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) != 0){}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) != 0){`}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) != 0){/}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) != 0){print}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) != 0){print $1}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) != 0){print 0}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) != 0){print $1} else {print "Hello"}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) == 0){print $1} else {print "Hello"}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) == 0){print index("him",$0)} else {print "Hello"}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) == 0){print index("Him",$0)} else {print "Hello"}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) == 0){print index("Him",$3)} else {print "Hello"}} ' something.txt
+awk ' BEGIN{FS=";"} { if(index("him",$0) == 0){print $0} else {print "Hello"}} ' something.txt
+awk ' BEGIN{FS=";"} /[Hh][Ii][Mm]/ {print $0 } ' something.txt
+awk ' BEGIN{FS=";"} /[Hh][Ii][Mm]/ {print "--> To be romoved" } END {print $0} ' something.txt
+awk ' BEGIN{FS=";"} /[Hh][Ii][Mm]/ {print $0} END{print "Hello"} ' something.txt
+cat something.txt
+awk ' BEGIN{FS=";"} /[Hh][Ii][Mm]/ {print "--> To be romoved $0" } END {print $0} ' something.txt
+awk ' BEGIN{FS=";"} /[Hh][Ii][Mm]/ {print "--> To be romoved" $0 } END {print $0} ' something.txt
+awk ' BEGIN{FS=";"} /[Hh][Ii][Mm]/ {print "--> To be romoved\n" $0 } END {print $0} ' something.txt
+awk ' /[Hh][Ii][Mm]/ {print "--> To be romoved" $0 } ' something.txt
+awk ' /[Hh][Ii][Mm]/ {print "--> To be romoved\n" $0 } ' something.txt
+awk ' /[Hh][Ii][Mm]/ {print "--> To be removed\n" $0 } /[^Hh][^iI][^Mm]/ {print $0}' something.txt
+awk ' /[Hh][Ii][Mm]/ {print "--> To be removed\n" $0 } /^[Hh][iI][Mm]/ {print $0}' something.txt
+awk ' /[Hh][Ii][Mm]/ {print "--> To be removed\n" $0 } /[Hh][iI][Mm]/ {print $0}' something.txt
+awk ' /[[Hh][Ii][Mm]]/ {print "--> To be removed\n" $0 } /[Hh][iI][Mm]/ {print $0}' something.txt
+awk ' /[Hh&&Ii&&Mm]/ {print "--> To be removed\n" $0 } /^[Hh][iI][Mm]/ {print $0}' something.txt
+awk ' /[Hh][Ii][mM]/ {print "--> To be removed\n" $0 } /[Hh][iI][Mm]/ {print $0}' something.txt
+awk ' /[Hh][Ii][mM]/ {print "--> To be removed\n" $0 } /[^Hh][^iI][^Mm]/ {print $0}' something.txt
+awk ' /[Hh][Ii][mM]/ BEGIN{v=$0} {print "--> To be removed\n" v }' something.txt
+awk ' /[Hh][Ii][mM]/ {print "--> To be removed\n" $0 } /^[^Hh][^iI][^Mm]/ {print $0}' something.txt
+awk ' /[Hh][Ii][mM]/ {print "--> To be removed\n" $0 } /[^Hh][^Ii][^Mm]/ {print $0}' something.txt
+awk ' /[Hh][Ii][mM]/ {print "--> To be removed\n" $0 } /[^Hh][^Ii][^Mm]/ {print $0 "1"}' something.txt
+awk ' /[Hh][Ii][mM]/ {print "--> To be removed\n" $0 }{print $0 "1"}' something.txt
+awk ' /[Hh][Ii][mM]/ {print "--> To be removed\n" $0 } {print $0 "1"}' something.txt
+awk ' match($0,/[Hh][Ii][Mm]) {print $0} '
+awk ' match($0,/[Hh][Ii][Mm]) {print $0} ' something.txt
+awk ' match($0,/[Hh][Ii][Mm]) {print $0} ' something.txt | head
+awk ' {print match($0,/[Hh][Ii][Mm]) } ' something.txt 
+awk ' {print match($0,/[Hh][Ii][Mm]/) } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/) if(tmp){print "--> To be removed\n" $0}else {print $0} } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/) if(tmp) {print "--> To be removed\n" $0}else {print $0} } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/) if(tmp){print "--> To be removed\n" $0} else {print $0} } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/)if(tmp){print "--> To be removed\n" $0} else {print $0} } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/) if(tmp) {print "--> To be removed\n" $0} else {print $0} } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/) print tmp } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/) } ' something.txt 
+awk ' { for(i=0;i<NF;i++){tmp=match($0,/[Hh][Ii][Mm]/) print tmp} } ' something.txt 
+awk ' { for(i=0;i<=NF;i++){tmp=match($0,/[Hh][Ii][Mm]/) print tmp} } ' something.txt 
+awk ' { for(i=0;i<=NF;i++){tmp=match($0, /[Hh][Ii][Mm]/) print tmp} } ' something.txt 
+awk ' { for(i=0;i<=NF;i++){print match($0,/[Hh][Ii][Mm]/)} } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/);print tmp } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/);if(tmp){print tmp} } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/);if(tmp){print "--> To be removed" $0} else {print $0} } ' something.txt 
+awk ' { tmp=match($0,/[Hh][Ii][Mm]/);if(tmp){print "--> To be removed\n" $0} else {print $0} } ' something.txt 
+sudo service mysqld start
+mysql -u frigus 
+exit;
+echo ref: refs/heads/master >.git/HEAD
+git pull origin
+lgsd
+lgsdsdcsd
+sudo apt autoremove
+ping https://u8609464.ct.sendgrid.net/ls/click?upn=vcbTVWFBN09o-2FMbQ29KtW-2F81-2F1neYsos9CYSkX9HH-2B4AICIw2JQABvL8FFUeetA9Pbv3_59ZvMWwGHHs6pW-2B4SIFrUyMsOAALx0kKfRAfhAyIOOxeAqr1cLqGUoorUz8e6ar5u2tcZ7f8797eFMqKI7NClGUjA5Ssn-2FDiHJGbI0oqzG-2FppmCfHMJXo60lIGkoVcXX0SbMBMbllL2aYO6mAr-2BqaaKR6qfY3XzdMAshzYFFLpLhwg3-2FuyfRdVCjQ4djk6RWG8gT07EEAsORDGm-2B2L7a67-2BanPRaYJjObNpiQokpFps-3D
+ping localhost
+ping https://www.google.com
+ping www.google.com
+ping u8609464.ct.sendgrid.net/ls/click?upn=vcbTVWFBN09o-2FMbQ29KtW-2F81-2F1neYsos9CYSkX9HH-2B4AICIw2JQABvL8FFUeetA9Pbv3_59ZvMWwGHHs6pW-2B4SIFrUyMsOAALx0kKfRAfhAyIOOxeAqr1cLqGUoorUz8e6ar5u2tcZ7f8797eFMqKI7NClGUjA5Ssn-2FDiHJGbI0oqzG-2FppmCfHMJXo60lIGkoVcXX0SbMBMbllL2aYO6mAr-2BqaaKR6qfY3XzdMAshzYFFLpLhwg3-2FuyfRdVCjQ4djk6RWG8gT07EEAsORDGm-2B2L7a67-2BanPRaYJjObNpiQokpFps-3D
+ps aux | grep vlc | kill -9
+rm -rf ~/.local/share/gnome-shell/extensions/web-dev-panel@mediadoneright.com/
+sudo apt-get install mysql-server
+systemctl start mysqld.service
+systemctl status mysqld.service
+msql
+mysql -p frigus
+mysql -p 
+sudo mysql_secure_installation
+mysql
+sudo mysql 
+systemctl stop mysqld.service
+killall -9 vlc
+sudo dpkg -i code_1.54.1-1614898113_amd64.deb
+/usr/bin/python3 "/home/frigus/github/codechef january/ranging.py"
+mkdir .output
+g++ -o .output/main "/home/frigus/github/codechef january/highest.cpp"
+make --directory=".output/"
+65 cd "/home/frigus/github/codechef january" ; /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:34097 -Dfile.encoding=UTF-8 -cp "/home/frigus/.config/Code/User/workspaceStorage/94d1cc6fda94dcf144e9576846722a36/redhat.java/jdt_ws/codechef january_a8db27c3/bin" Solution 
+/usr/bin/python3 /home/frigus/github/wordcount/wordcount/views.py
+/usr/bin/python3 /home/frigus/github/wordcount/wordcount/urls.py
+/usr/bin/python3 /home/frigus/github/wordcount/manage.py
+xdsc
+git clone https://github.com/vaibhav4399/Dataset.git
+cd Dataset
+git commit -m "crop"
+git commit -am "added"
+git remote add origin https://github.com/vaibhav4399/Dataset.git
+git st
+git commit -m "crops"
+sudo dpkg -i mysql-workbench-community_8.0.23-1ubuntu20.10_amd64.deb
+sudo apt-get install mysql-workbench-community
+mysql --version
+mysql-workbench
+mysql-workbench-bin
+sudo mysql-workbench
+sudo apt-get install -f
+sudo sqlworkbench.sh
+sudo ./sqlworkbench.sh
+sudo dpkg -i dbeaver-ce_21.0.0_amd64.deb
+sudo apt-get purge --remove dbeaver-ce
+clang hello.c
+./a.out
+clang hello.c && ./a.out
+clang sxcs.cpp && ./a.out
+clang++ sxcs.cpp && ./a.out
+python3 -m pip install 'python-language-server[all]'
+sudo pip3 install jedi
+sudo apt-get install clang-format
+sudo apt-get purge --remove code
+atobm --help
+sudo apt-get purge --remove atom-nightly
+hotpatcher --help
+ls /etc/NetworkManager/system-connections/
+leafpad /etc/NetworkManager/system-connections/VAIBHAV.nmconnection
+sudo leafpad /etc/NetworkManager/system-connections/VAIBHAV.nmconnection
+sudo leafpad /etc/NetworkManager/system-connections/SRILAKSHMI.nmconnection
+sudo leafpad /etc/NetworkManager/system-connections/AQAAAPO_RFYAXwGtROM.nmconnection
+sudo leafpad /etc/NetworkManager/system-connections/Redmi\ Network.nmconnection
+cut -d "," -f 1,4
+touch exam.txt
+cut -d "," -f 1,4 exam.txt
+cut -d "," -f 1,4 exam.txt --output-delimiter=" "
+cut -d "," -f 1,4 exam.txt --output-delimiter=" " | sort -n -k 1
+cut -d "," -f 1,4 exam.txt --output-delimiter=" " | sort -k 1
+awk '{ BEGIN FS=",";S=0}{ '
+awk '{ BEGIN FS=",";S=0} '
+awk '{ BEGIN FS=",";S=0} \
+S=S+$2; }\
+{ END print S/NR }\
+awk '{ BEGIN FS=",";S=0} \
+S=S+$2; }\
+{ END print S/NR }\
+' exam.txt
+awk '{ BEGIN FS=",";S=0} \
+S=S+$2; }\
+{ END print S/NR; }\
+' exam.txt
+awk '{ BEGIN FS=",";S=0} \
+S=S+$2; } print S/NR; }\
+' exam.txt
+awk 
+awk ' BEGIN { FS=",";S=0 }\
+{ S=S+$2 }\
+END { print S/NR; } ' exam.txt
+leafpad exam.txt
+awk ' BEGIN { FS=",";S=0 }\
+{ S=S+$2 }\
+END { print S/(NR-1); } ' exam.txt
+awk ' BEGIN { FS=",";S=0 }\
+{ S=S+$3 }\
+END { print S/(NR-1); } ' exam.txt
+sort -k 3 -r
+sort -k 3 -r exam.txt
+sort -k 3 exam.txt
+sort -k3 exam.txt
+sort -t ","  -k 3 exam.txt
+sort -t ","  -k 3 -r exam.txt
+grep "Vaibhav" exam.txt
+grep -o "Vaibhav" exam.txt
+grep -o Vaibhav exam.txt
+sudo dpkg -i atom-amd64.deb
+which python-flake8
+sudo apt-get install flake8
+pip3 install flake8
+sudo pip3 install flake8
+ls /usr/lib/python3/dist-packages
+ls /usr/lib/python3/dist-packages/flake8
+ls /usr/lib/python3/dist-packages/flake8-3.8.4.egg-info
+which flake8
+express --help
+express ecommerce --ejs
+cd ecommerce
+sudo dpkg -i discord-0.0.13.deb
+npm install --save mongoose
+curl -x POST https://harvestify.herokuapp.com/crop-predict
+curl -x POST https://harvestify.herokuapp.com/crop-recommend
+curl -X POST https://harvestify.herokuapp.com/crop-predict
+curl -X POST https://harvestify.herokuapp.com/crop-predict -d {"Nitrogen" : "50"}
+curl -X POST https://harvestify.herokuapp.com/crop-predict -d {"Nitrogen":"50"}
+curl -X POST https://harvestify.herokuapp.com/crop-predict -d {"Nitrogen":"50","Potassium":"50","Phosphorous":"50","Rainfall":"50","phlevel":"8","State":"Karnataka","City":"Aurad"}
+curl -X POST https://harvestify.herokuapp.com/crop-predict -d {"nitrogen":"50","potassium":"50","phosphorous":"50","rainfall":"50","phlevel":"8","state":"Karnataka","city":"Aurad"}
+curl -X POST https://harvestify.herokuapp.com/crop-predict -d {"n":"50","k":"50","p":"50","rainfall":"50","phlevel":"8","state":"Karnataka","city":"Aurad"}
+sudo mv  BigfatScript-jE96G.ttf Bigfatscriptxtrude-z8rw3.ttf MakeupPersonalUseRegular-8Vpz.ttf Oasis-BW0JV.ttf Painter-Br0w.ttf RothenburgDecorative-X3JY9.ttf YouthTouchDemoRegular-4VwY.ttf /usr/share/gimp/2.0/fonts
+cd Downloads/Dataset
+git fetch origin
+pip3 install flask_cors
+pip3 install flask
+javac Sol.java
+java Sol
+pip3 install pymongo
+grep -i "india" city_temperature.csv
+cut -d "," -f 2 city_temperature.csv | grep -i "India" | wc -l 
+cut -d "," -f 2 city_temperature.csv | grep -i "India"
+grep -i "india" city_temperature.csv | wc -l
+grep -i "india" city_temperature.csv > data3.csv
+python3 models.py
+grep -i "India" GlobalLandTemperaturesByState.csv > newdata.csv
+python3 datamal.py
+manc ut
+manc cut
+grep -i "india" GlobalLandTemperaturesByState.csv | cut -d "," -f 3,5 --compliment > data5.csv
+grep -i "india" GlobalLandTemperaturesByState.csv | cut -d "," -f 3,5 --complement > data5.csv
+git add data
+git commit -m "data"
+git commit -m "api"
+sudo ./ngrok authtoken bPJFaVo1tButFrSVcLvU_NFxyJ5UXjiV5Bh32DYX8
+./ngrok help
+./ngrok http http://127.0.0.1:5000/
+git clone https://github.com/aryankr12/Final-Year-Project.git
+cd Final-Year-Project
+lolcat
+lolcat akfjeifowefyedfbvehdjfksd
+lolcat "akfjeifowefyedfbvehdjfksd"
+lolcat --help
+fortune
+while\
+echo "Hello"
+python3 checknull
+python3 checknull.py
+git commit -m "Database"
+git sta
+git commit -m "Temperature"
+locate sklearn
+cd /home/frigus/.local/lib/python3.8/site-packages/sklearn/ensemble
+leafpad forest.py
+leafpad _forest.py
+git commit -m "login"
+sudo ./weka.sh
+sudo apt install kali-desktop-kde
+sudo apt-get install kali-desktop-kde
+sudo dpkg-reconfigure some_installed_display_manager
+sudo apt-get remove kde-plasma-desktop kde-plasma-netbook kde-standard
+sudo apt-get remove kali-desktop-kde
+ps -e | grep -E -i "xfce|kde|gnome"
+sudo apt-get install gdm3
+sudo systemctl enable gdm.service -f
+sudo dpkg-reconfigure gdm3
+leafpad /etc/X11/default-display/manager
+ls /etc/X11/default-display/manager
+ls /etc/X11/default-display/
+cat /etc/X11/default-display-manager
+sudo apt-get purge task-kde-desktop\
+sudo apt-get purge konsole konqueror konsole-kpart okular
+sudo apt-get purge kdm
+sudo apt-get remove ^plasma
+sudo apt install ./Minecraft.deb
+sudo apt purge --remove minecraft-launcher
+sudo apt-get ^kde
+sudo apt-get remove ^kde
+sudo apt-get remove ^kdb
+sudo apt-get remove kdb*
+sudo apt-get remove plasma*
+sudo apt-get remove kde*
+sudo apt install gnome-software
+gnome-software
+man grep
+git fetch origin master
+git pull
+git commit -m "s"
+sudo npm cache clean --force
+npm uninstall -g create-react-app && npm i -g npm@latest && npm cache clean -f && npx create-react-app my-app\
+npm uninstall -g create-react-app && sudo npm i -g npm@latest && npm cache clean -f && npx create-react-app my-app\
+create-react-app
+sudo npm create-react-app myapp
+sudo npx create-react-app myapp
+create-react-app myapp
+sudo create-react-app myapp
+npm uninstall -g create-react-app.
+sudo npm uninstall -g create-react-app.
+sudo apt-get remove create-react-app
+which create-react-app
+apt-get remove create-react-app
+npx create-react-app@latest my-app
+npm install -g npm@latest
+npx create-react-app myapp
+npx create-react-app#latest myapp
+npx create-react-app@latest myapp
+grep -i "wheat" crop_production.csv | cut -d "," -f 1 | wc -l
+grep -i "wheat" crop_production.csv | cut -d "," -f 1 | sort -u | wc -l
+grep -i "tomato" crop_production.csv | cut -d "," -f 1 | sort -u | wc -l
+grep -i "tomato" crop_production.csv | cut -d "," -f 1 | sort -u 
+grep -i "potato" crop_production.csv | cut -d "," -f 1 | sort -u | wc -l
+grep -i "onion" crop_production.csv | cut -d "," -f 1 | sort -u | wc -l
+grep -i "arecanut" crop_production.csv | cut -d "," -f 1 | sort -u | wc -l
+grep -i "coconut" crop_production.csv | cut -d "," -f 1 | sort -u | wc -l
+grep -i "banana" crop_production.csv | cut -d "," -f 1 | sort -u | wc -l
+grep -i "coconut" crop_production.csv | cut -d "," -f 1 | sort -u 
+grep -i "banana" crop_production.csv > coconut.csv 
+grep -i "coconut" crop_production.csv > coconut.csv 
+grep -i "coconut" crop_production.csv > banana.csv 
+grep -i "wheat" crop_production.csv > banana.csv 
+grep -i "banana" crop_production.csv > banana.csv 
+grep -i "wheat" crop_production.csv > wheat.csv 
+grep -i "rice" crop_production.csv | cut -d "," -f 1 | sort -u | wc -l
+grep -i "rice" crop_production.csv | cut -d "," -f 1 | sort -u 
+grep -i "rice" crop_production.csv | cut -d "," -f 1 | sort -un 
+grep -i "rice" crop_production.csv | cut -d "," -f 1 | sort -u | cat 
+grep -i "rice" crop_production.csv | cut -d "," -f 1 | sort -u | cat -n
+grep -i "rice" crop_production.csv | cut -d "," -f 1 | sort -u | cat -n > states.txt
+cat states.txt
+grep -i "rice" crop_production.csv | cut -d "," -f 1 | sort -u | cat -n > states.csv
+cat states.csv
+grep -i "jowar" crop_production.csv | cut -d "," -f 1 | sort -u 
+python3 -m venv api
+cd api
+pip3 install flask flask-restful flask-cors pymongo pymongo[srv]
+pip3 install Blueprint
+pip3 install mongoengine
+pip3 install flask-mongoengine
+pip3 install python3-dotenv
+pip3 install python-dotenv
+git add data/
+git commit -am "finaldata"
+python3 api.py
+python3 ./models/user.py
+python3 user/models.py
+python3 connect.py
+python3 -m config/database.py
+python3 -m config/database
+python3 -m config.database
+python3 models/user.py
+python3 config/database.py
+python3 database/connection.py 
+python3 routes/login_register.py
+pip3 install Flask-Login
+pip3 import mongoengine_goodjson
+pip3 install mongoengine_goodjson
+pip3 install jwt
+pip3 install flask-jwt
+pip3 install flask-bycrypt
+pip3 install flask-bcrypt
+python3 app/main.py
+python3 main.py
+python3 authroutes/login_register.py
+python3 app/app.py
+python3 database/usermodel.py
+npm i bootstrap@latest --save
+sudo npm --version
+which npm
+/usr/bin/npm --version
+grep -i -e "rice" -e "wheat" -e "jowar" -e "bajra" > cropdata.csv
+grep -i -e "rice" -e "wheat" -e "jowar" -e "bajra" crop_production.csv > cropdata.csv
+sudo cp ngrok /usr/bin/
+sudo rm ngrok
+./ngrok http 80
+cp ngrok ~/.local/bin
+ls ~/.local/bin
+ls ~/.local/share
+ls ~/.local/
+ls ~/.local/lib
+nginx
+ngrok http 80
+cat "ATKPP3829P" > ppan.txt
+cat "ATKPP3829P" 
+cat > ppan.txt 
+grep -i "vaibhav" India\ 1.txt
+grep -i "vaibhav" India\ 1.txt | wc -l
+grep -i "vaibhav:prabhu" India\ 1.txt | wc -l
+grep -i "vaibhav:prabhu" India\ 2.txt | wc -l
+grep -i "vaibhav:prabhu" India\ 2.txt 
+leafpad India 1.csv
+leafpad India\ 1.csv
+leafpad India\ 1.txt
+grep -i "vaibhav19prabhu@gmail.com" India\ 2.txt 
+grep -i "vaibhav19prabhu@gmail.com" India\ 1.txt 
+grep -i "poojagamaskar19@gmail.com" India\ 2.txt 
+grep -i "poojagamaskar19@gmail.com" India\ 1.txt 
+htop
+git add api
+git pull -u origin master
+grep -i "rice" newtest2cropdata.csv > finalricetrain.csv
+sudo apt-get purge --remove atom
+dpkg -i code_1.55.1-1617808414_amd64.deb
+sudo dpkg -i code_1.55.1-1617808414_amd64.deb
+code
+apt policy
+/usr/bin/python3 /home/frigus/github/api/api/authroutes/cropyield.py
+python3 authroutes/cropyield.py
+mongo 
+mongo mongodb+srv://User:abcdefg@cluster0.7dzpl.mongodb.net/Misc?retryWrites=true&w=majority
+pip3 install sklearn
+pip3 list 
+pip3 install pandas
+mongo "mongodb+srv://User:abcdefg@cluster0.7dzpl.mongodb.net/Misc?retryWrites=true&w=majority"
+locate ngrok
+python3 database/connection.py
+python3 insert.py
+pip3 install aiohttp
+ls -a /usr/share/vlc/lua/http/
+leafpad /usr/share/vlc/lua/http/v
+leafpad /usr/share/vlc/lua/http/view.html
+leafpad /usr/share/vlc/lua/http/custom.lua
+leafpad /usr/share/vlc/lua/http/
+leafpad /usr/share/vlc/utils
+minecraft
+which ngrok
+which minecraft
+which Minecraft
+sudo dpkg -i Minecraft.deb
+minecraft-launcher
+sudo apt-get purge --remove minecraft-launcher
+sudo apt-get purge --remove transmission
+sudo apt-get purge --remove uget
+locate minecraft
+sudo apt-get purge --remove signal-desktop
+npm run start
+sudo apt autoclean\
+sudo apt autoremove\
+pip3 list
+npm install dotenv --save
+npm install nodemon --save
+npm -i cors --save
+npm i cors --save
+npm i multer --save
+npm i mongodb mongoose --save
+npm i express-validator --save
+npm i bcrypt jsonwebtoken --save
+sudo dpkg -i code_1.55.2-1618307277_amd64.deb
+rm code_1.55.2-1618307277_amd64.deb
+node ./bin/www
+npm i axios --save
+sudo systemctl enable mysqld.service
+mysql -u root
+sudo mysql -u root
+sudo mysql
+apt list
+apt list | wc -l
+apt list | wc
+mongo "mongodb+srv://vaibhav:123456789a@cluster0.37cbc.mongodb.net/User?retryWrites=true&w=majority"
+node add.js
+sudo apt-get install grub-customizer
+grub-customizer
+sudo grub-reboot --help
+/etc/initramfs-tools/conf.d/splash
+ls /etc/initramfs-tools/conf.d/splash
+sudo ls /etc/initramfs-tools/conf.d/splash
+sudo ls /etc/initramfs-tools
+sudo ls /etc/initramfs-tools/hooks
+sudo ls /etc/initramfs-tools/scripts
+sudo ls /etc/initramfs-tools/update-initramfs.conf
+sudo leafpad /etc/initramfs-tools/update-initramfs.conf
+sudo ls /etc/initramfs-tools/conf.d
+sudo ls /etc/initramfs-tools/conf.d/resume
+sudo leafpad /etc/initramfs-tools/conf.d/resume
+sudo ./install.sh
+sudo cp background.jpg /usr/share/images/desktop-base/
+sudo mv background.jpg desktop-grub2.png
+sudo mv desktop-grub.png /usr/share/images
+sudo mv desktop-grub2.png desktop-grub.png 
+sudo grub-customizer
+/usr/share/images/desktop-base/desktop-grub.png
+sudo /usr/share/images/desktop-base/desktop-grub.png
+sudo mv desktop-grub2.png desktop-grub2.jpg 
+sudo cp desktop-grub2.png desktop-grub2.jpg 
+sudo cp desktop-grub.png desktop-grub.jpg 
+sudo leafpad kali-themes.cfg
+/usr/bin/python3
+pip3 install scikit-learn
+pip3 install scikit-learn==0.22.2
+pip3 install scikit-learn==0.22.2.post1
+pip3 install scikit-learn==0.22.2.post1 --force
+python predict.py
+python3 predict.py
+pip3 list
+ngrok  --help
+ngrok authtoken bPJFaVo1tButFrSVcLvU_NFxyJ5UXjiV5Bh32DYX8
+ngrok start
+ngrok start --all
+ngrok start --none
+ngrok
+clang++ sdf.cpp && ./a.out
+pip3 flask_expects_json
+pip3 install flask_expects_json
+curl
+curl --help
+curl --manual
+curl -X POST {"email":"vaibhavp19@gmail.com","password":"123456789"} http://localhost:5000/api/auth/login
+curl -X POST -d {"email":"vaibhavp19@gmail.com","password":"123456789"} http://localhost:5000/api/auth/login 
+curl -X POST -H "application/json" -d {"email":"vaibhavp19@gmail.com","password":"123456789"} http://localhost:5000/api/auth/login 
+curl -X POST -H "Content-Type:application/json" -d {"email":"vaibhavp19@gmail.com","password":"123456789"} http://localhost:5000/api/auth/login 
+curl -X POST -H "Content-Type:application/json" {"email":"vaibhavp19@gmail.com","password":"123456789"} http://localhost:5000/api/auth/login 
+curl -X POST  -d '{"email":"vaibhavp19@gmail.com","password":"123456789"}' http://localhost:5000/api/auth/login 
+curl -X POST -H "Content-Type:application/json" -d '{"email":"vaibhavp19@gmail.com","password":"123456789"}' http://localhost:5000/api/auth/login 
+curl -X POST -H "Content-Type:application/json" -d '{"email":"vaibhavp19@gmail.com","password":"123456789"}' https://5e5bde53c9b5.ngrok.io/api/auth/login 
+git remote add origin https://github.com/vaibhav4399/flaskapi.git
+ngrok version
+locate model.pkl
+clang++ sdjs.cpp
+javac jsdj.java
+java jsdj
+javac WordMatrix.java
+java WordMatrix
+python3 die.py
+cd Downloads/api
+rm .git
+rmdir .git
+rmdir -R .git
+rmdir -Rf .git
+rm -rf .git
+git init
+git commit -am "api"
+git remote add origin https://github.com/vaibhav4399/flaskqpi.git
+ngrok http 5000
+pip3 install flask_pymongo
+python3 app2.py
+sudo dpkg -i code_1.56.0-1620166262_amd64.deb
+mongo "mongodb+srv://uttam_kr12:JGr73uR1ZlrA9ryx@cluster0.34ucg.mongodb.net/Forecast"
+lsof -i 5000
+lsof -i "5000"
+lsof -i:"5000"
+lsof -i:5000
+lsof -i
+lsof -i:"46624"
+lsof -i:46624
+python
+cd github/finaldataset
+pip3 install --upgrade sklearn
+sudo pip3 install --upgrade sklearn
+sudo pip3 install flask_pymongo
+python3 app.py
+lsb_release 
+uname -a
+pwsh
+pwsh --help
+pwsh -w
+pwsh -wd
+pwsh 
+lsb_release -r
+cat /etc/issue
+cat /etc/issue.net
+cat /etc/mtab
+cat /etc/os-release
+grep  VERSION /etc/o
+grep  VERSION /etc/os-release
+sudo apt-get dist-upgrade 
+locate grub_sh
+locate grub_background
+sudo leafpad grub_background.sh
+sudo leafpad /usr/share/desktop-base/grub_background.sh
+sudo update-grub
+history
+kali-undercover
+arch
+date
+dig 192.168.101.1
+whoami
+whois
+whois -b
+sudo mv Zotero-5.0.96.2_linux-x86_64.tar.bz2 /opt/
+sudo mv Zotero_ /opt/
+sudo mv Zotero_linux-x86_64 /opt/
+ls Zotero_linux-x86_64
+sh set_launcher_icon
+sudo sh set_launcher_icon
+sudo ./set_launcher_icon
+zotero.desktop
+./set_launcher_icon
+ln -s zotero.desktop ~/.local/share/applications/zotero.desktop
+sudo ln -s zotero.desktop ~/.local/share/applications/zotero.desktop
+sudo ln -fs zotero.desktop ~/.local/share/applications/zotero.desktop
+rm zotero.desktop
+ls -a zotero.desktop
+sudo ls -a zotero.desktop
+python3 small.py
+42-14
+python3 asc.py
+dpkg -i discord-0.0.15.deb
+sudo dpkg -i discord-0.0.15.deb
+cat ppan.txt 
+cat ppan.txt cd
+sudo anonsurf
+sudo anonsurf help
+sudo anonsurf myip
+tcpdump
+sudo tcpdump
+tcpdump -i any -c10 port 80
+sudo tcpdump -i any -c10 port 80
+mongo "mongodb+srv://cluster0.37cbc.mongodb.net/myFirstDatabase" --username vaibhav
+cd ecommerce-front
+npm -i bootstrap
+npm install bootstrap
+npm uninstall bootstrap
+npm install ejs
+npm install ejs --save
+lsof -i "3000"
+lsof -i:3000
+sudo kill -9 33437
+sudo apt-get install imagemagick
+davtest -url https://www.google.com
+cewl https://www.google.com
+sudo apt-get install google-chrome-stable
+shutdown --help
+man shutdown
+sudo shutdown
+sudo shutdown -c
+reboot
+killall shutdown
+touch tcsid.txs
+sort --help
+man sort
+man cut
+sort -t "," -k 3 wheat.csv -o "newwheat.csv"
+sudo dpkg -i Webex.deb
+sudo apt-get install --fix-broken
+sudo dpkg -i code_1.59.0-1628120042_amd64.deb
+touch p.py
+vinstat
+systemctl stop vnstat.service
+sudo apt-get install vnstat
+sudo vnstat
+man vnstat
+vnstat -d
+vnstat -u -i eth0~
+systemctl start vnstat.service
+vnstat
+vnstat -u -i eth0
+vnstat  -i wlan0
+vnstat -i eth1
+vnstat -i eth0
+sudo apt-get install zabbix
+sudo  apt-get install monitorix\
+
+sudo apt purge --remove vnstat
+service monitorix restart
+man monitor-sensor
+monitorx
+monitor-sensor
+sudo monitor-sensor
+service monitorix
+service monitorix status
+ifconfig | grep inet
+ifconfig | grep inet addr
+ifconfig | grep int
+http://192.168.0.102:8000/monitorix
+service monitorix start
+sudo apt-get install conky
+conky
+man conky
+conky downspeed
+/bin/python3
+python3 fibonaccirecurse.py
+/bin/python3 /home/frigus/.vscode/extensions/ms-python.python-2021.9.1191016588/pythonFiles/shell_exec.py /bin/python3 -m pip install -U ipykernel /tmp/tmp-78558Q2KYjYX4T0je.log
+/usr/bin/python3 /home/frigus/.vscode/extensions/ms-python.python-2021.9.1191016588/pythonFiles/shell_exec.py /usr/bin/python3 -m pip install -U --force-reinstall ipykernel /tmp/tmp-79971fBVx3altJcvm.log
+sudo apt-get full-upgrade
+sudo apt-get autoremove
+python3 
+cd /usr/share/desktop-base
+sudo gem install sass
+cat ppan.txt
+gedit p.py
+python3 p.py
+google-chrome --help
+open chrome --args --incognito --no-sandbox "https://simplyaweeb.to"
+open chrome --incognito --no-sandbox "https://simplyaweeb.to"
+open google-chrome --incognito --no-sandbox "https://simplyaweeb.to"
+open -na "Google Chrome" --args --incognito "https://en.wikipedia.org/wiki/Main_Page"\
+
+google-chrome --incognito --no-sandbox "https://simplyaweeb.to"
+sudo ./IBALauncher
+sudo sh IBA_IOAPDATA
+sudo sh IBALauncher
+sudo apt-get install python-pip python-dev lsscsi  
+sudo apt-get install python3-pip python-dev lsscsi  
+sudo pip install py_sg  
+cd ~; wget https://raw.githubusercontent.com/evox95/wdpassport-utils/master/wdpassport-utils.py
+\
+sudo python ~/wdpassport-utils.py -c
+sudo pip install random pyudev
+sudo pip install random
+sudo pip install pyudev
+sudo python ~/wdpassport-utils.py -u
+gedit wdpassport-utils.py
+cd downloads
+sudo dpkg -i code_1.61.2-1634656828_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+npx create-react-app@latest project1
+npm install create-react-app
+npm install -g create-react-app
+cd github/project1
+sudo apt install bravebrowser
+sudo apt install apt-transport-https curl
+sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg\
+
+echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+sudo apt-get install brave-browser
+cd webpack
+webpack
+webpack serve
+npm install webpack-cli --save-dev
+npm install webpack webpack-dev-serve webpack-merge --save-dev
+npm install webpack webpack-merge --save-dev
+npm install internal-ip --save
+sudo dpkg -i discord-0.0.16.deb
+npm install 
+nvm list
+sudo apt install nvm
+npm i -g npm
+sudo npm i -g npm
+npm install -g npm@next\
+\
+
+sudo npm cache clean -f
+sudo npm install -g npm
+sudo npm install -g npm --force
+npm view npm version
+sudo npm audit fix
+nodejs
+sudo apt remove nodejs
+sudo npm install -g n
+nodejs 
+sudo npm install -g npm@latest
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | sh
+nvm
+source ~/.bashrc
+source ~/.zsh
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | zsh
+source ~/.zshrc
+nvm --vrsion
+nvm --version
+nvm ls
+nvm ls-remote
+nvm install 16.13.1
+npm
+nodejs -v
+sudo apt install blender
+npm install nodemon --save-dev
+npm install mocha --save-dev
+npm install jsdom
+npm install jsdom --save
+sudo killall vlc
+sudo killall -9 vlc
+sudo kill -9 120963
+sudo kill -9 6356
+ps aux | grep vlc
+npm install wwebpack webpack-cli --save
+npm install webpack webpack-cli --save
+webpack serve index.html
+npm run dev
+npm install @types/three
+npm install require
+npm install commonjs --save
+npm install body-parser --save
+npm install babel --save
+npm test
+hostname
+hostname --help
+hostname -d
+hostname -s
+hostname -i
+sudo systemctl statua mysqld.service
+mysql 
+sudo mysql -u root -p
+kill 45107
+kill 45107 -9
+stty -tostop
+jobs -r
+/usr/bin/python3 /home/frigus/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/bin/python3 -m pip install -U --force-reinstall ipykernel /tmp/tmp-4140RPE8CpBGiHVw.log
+sudo pip3 --version
+sudo pip3 install --upgrade pip
+/usr/bin/python3 /home/frigus/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/bin/python3 -m pip install -U --force-reinstall ipykernel /tmp/tmp-4140IuLQvEvklDhK.log
+where pip3
+jobs
+jobs -i
+jobs -s
+kill 1
+kill %1
+kill -9 %1
+jobs -l
+sudo systemctl status mysqld.service
+mysql -u frigus -p 
+mysqldump -u frigus -p 50FrigCordis221b test>test.sql
+mysqldump -u frigus -p  test>test.sql
+leafpad test.sql
+mysql -u frigus -p "50FrigCordis221b"
+mysql -u frigus -p test
+mysql -u frigus -p test<test.sql
+npm install --save three
+npm st
+john nov.zip 
+zip2john Payslip\ of\ Nov_2021.zip > nov.txt
+zip2john "Payslip of Nov_2021.zip" > nov.txt
+zip2john "nov.zip" > nov.txt
+zip2john NCA.pdf
+zip2john nov.zip > nov.txt
+john nov.txt
+john nov.zip
+john nov.zip --show
+john nov.zip --help
+john  --help
+npm install axios --save
+npx create-react-app@latest ./
+npkill 
+npm -g create-react-app
+sudo npm -g create-react-app
+sudo npm install -g create-react-app
+npm install -g npm
+npm audit fix 
+sudo npm audit fix 
+npm view React version
+npm uninstall -g create-react-app
+sudo npm uninstall -g create-react-app
+npx clear-npx-cache
+npx create-react-app ./
+npm i -g tar
+sudo npm i -g tar
+npx create-react-app@latest traveladvisor
+cd traveladvisor
+npm fund
+ls -a
+free -m
+free -g
+grep MemTotal /proc/meminfo | awk '{print $2 / 1024}'
+sudo apt install java
+sudo apt install javac
+sudo update-alternatives --config java
+sudo apt install default-jdk
+sudi dkpg -i jdk-17_linux-x64_bin.deb
+sudo dkpg -i jdk-17_linux-x64_bin.deb
+sudo apt install libc6-x32
+sudo apt-get -f install
+sudo java --version
+sudo dpkg -i jdk-17_linux-x64_bin.deb
+sudo apt-cache search openjdk
+sudo apt-get install openjdk-17-jre
+java -version
+sudo apt-get install openjdk-17-jdk
+javac --version
+java --version
+dpkg -i discord-0.0.17.deb
+sudo dpkg -i discord-0.0.17.deb
+apt-cache search openjdk
+whereis java
+sudo apt install lyrebird
+cd 
+cd TCS
+sudo dpkg -i lyrebird_1.1.0-3.deb
+sudo apt install -f
+lyrebird
+sudo apt remove --purge lyrebird
+gnome-calculatoe
+sudo systemctl start mysqld.service
+mysql -u frigus -p
+sudo systemctl stop mysqld.service
+anonsurf
+anonsurf start
+sudo anonsurf start
+sudo anonsurf status
+sudo anonsurf stop
+sudo anonsurf -h
+sudo -i
+sudo -h
+sudo -r
+su root
+sudo -s
+npm run test
+npm install -g npm@8.11.0
+npm install three --save
+npm install require --save
+npm install
+npm install --save commonjs babel
+npm install --save express
+npm install --save
+npm install --save body-parser
+npm npkill
+npx npkill
+npm init
+npm install --save express three
+npm --save-dev nodemon
+npm install --save-dev nodemon
+npm install --save require
+npm audit fix --force
+node start
+angular
+node -v
+npm -v
+npm install -g @angular/cli
+ng -v
+ng new blog
+cd blog
+pip3 install flask_bootstrap
+cd ../ML-Model
+python3 model.py
+cd Server
+cd
+cd .
+cd ML-Model
+cd ../Server
+flask run
+git clone https://github.com/aryankr12/Frontend.git
+cd Frontend/
+oad
+apt search games
+apt search 0ad
+apt install doomsday
+sudo apt install doomsday
+0ad
+grep `*.vtt`
+find . -type f -name "*.vtt" | rm
+find . -type f -name "*.vtt" -exec rm {} \\
+;
+find . -type f -name "*.vtt" -exec rm {}
+find . -type f -name "*.vtt" -exec rm
+find . -type f -name "*.vtt" -exec rm{}
+find . -type f -name "*.vtt" -exec rm -rf {} \;
+grep
+apt
+open
+man
+try
+netdiscover -r 192.168.0.104/115
+sudo netdiscover -r 192.168.0.104/115
+sudo netdiscover -r 192.168.0.1/124
+ifconfig
+sudo netdiscover -r 192.168.1.1/24
+sudo netdiscover -r 192.168.0.1/16
+sudo netdiscover -r 192.168.0.1/24
+sudo netdiscover -r 192.168.0.1/48
+sudo netdiscover -r 192.168.0.0/24
+route -n
+python3 mac_changer.py
+python3 mac_changer.py --help
+python3 mac_changer.py --interface eth0
+python3 mac_changer.py 
+sudo pip3 install sacpy
+sudo pip3 install scapy
+sudo lsb_release -a
+cd Course1
+python3 network.py
+sudo apt install 0ad
+leafpad /etc/apt/sources.list
+apt-get update 
+sudo apt-get update 
+apt-get install -t bullseye-backports 0ad
+sudo apt-get install -t bullseye-backports 0ad
+code .
+sudo apr search steam
+sudo apt search steam
+pip3 install virtualenv
+sudo pip3 install virtualenv
+virtualenv --version
+virtualenv project1
+sudo apt-get install flatpak
+flatpak install flathub org.ppsspp.PPSSPP
+sudo
+sudo apt install flatpak
+sudo apt install gnome-software-plugin-flatpak
+sudo apt purge --remove 0ad
+cd Django
+pip3 search django
+django-admin startproject first_project
+django --version
+python3 manage.py startapp first_app
+grep `*.srt`
+grep "*.srt"
+grep -r "*.srt"
+grep *
+grep -r *.srt
+grep -R "*.srt"
+find . -type f -name "*.srt" -exec rm -rf {} \
+find . -type f -name "*.srt" -exec rm -rf {}\
+find . -type f -name "*.srt" -exec rm -rf {}
+find . -type f -name "*.srt" -exec "rm -rf" {}
+find . -type f -name "*.srt" -exec "rm -rf" {}\
+find . -type f -name "*.srt" -exec "rm -rf" {} \
+find . -type f -name "*.srt" -exec "rm -rf {} \"\
+
+man find
+find . -type f -name "*.srt" -exec rm rf {}\
+find . -type f -name "*.srt" -exec "rm rf {}\"
+find . -type f -name "*.srt" -exec rm rf {} \;
+ssh localhost
+ssh localhost:8000
+ssh -W localhost:8000
+ssh localhost -p 8000
+source project1/bin/activate
+cd first_project
+django-admin startapp second_app
+sudo apt-get search kali-desktop-gnome
+apt --help
+sudo apt search kali-desktop-gnome
+iscpu
+sudo apt install iscpu
+lscpu
+sudo dmidecode
+sudo dmidecode -t system
+sudo dmidecode -s system-serial-number
+sudo apt install brave-browser-beta~
+pip install selenium
+tmux send-keys -t browser R
+tmux new-session -s browser 'brave'
+tmux new-session -s browser 'brave.com'
+tmux new-session -s browser 'w3m brave.com'
+tmux new-session -s browser 'w3m google.com'
+tmux new-session -s browser 'w3m duckduckgo.com'
+pip install webbrowser
+pip install pyautogui
+pip3 install pyautogui
+gedit
+sudo apt install brave-browser-beta
+man brave-browser
+sudo apt purge --remove brave-browser
+sudo apt install brave-browser
+sudo apt purge --remove brave-browser brave-keyring
+sudo apt-get install firefox
+sudo apt-get install firefox-esr
+tar xjf firefox-106.0b6.tar.bz2
+pws
+cd /opt
+cd Zotero_linux-x86_64
+la
+cd /home
+ls fire
+sudo mv firefox /opt
+ls fire*
+sudo ln -s /opt/firefox/firefox /usr/local/bin/firefox
+wget https://raw.githubusercontent.com/mozilla/sumo-kb/main/install-firefox-linux/firefox.desktop -P /usr/local/share/applications
+sudo wget https://raw.githubusercontent.com/mozilla/sumo-kb/main/install-firefox-linux/firefox.desktop -P /usr/share/applications
+sudo rm firefox
+leafpad firefox.desktop
+sudo leafpad firefox.desktop
+sudo apt-get search firefox
+sudo apt search firefox
+sudo rm -rf firefox
+sudo rm firefox.desktop
+pwd
+sudo apt-get install firefox-developer-edition-en-us-kbx
+sudo apt-get upgrade && apt -y full-upgrade
+sudo apt -y full-upgrade
+sudo apt-get --fix-missing
+sudo apt-get update --fix-missing
+sudo apt-get install --fix-missing
+sudo apt-get install faraday
+sudo apt-get -y full-upgrade
+exit
+echo $XDG_CURRENT_DESKTOP
+sudo apt update
+sudo dpkg --configure -a
+sudo apt upgrade
+sudo apt kali-desktop-gnome
+sudo apt install kali-desktop-gnome
+sudo apt-get update
+sudo leafpad /etc/apt/sources.list
+lsb_release -a
+lsb_release
+lsb_release -h
+sudo apt-get upgrade
+firefox-developer-edition-en-us-kbx
+sudo apt-get autoremove --purge
+sudo systemctl status bluetooth.service
+man bluetoothd
+sudo systemctl status bluetoothd
+sudo systemctl enable bluetooth.service
+sudo systemctl start bluetooth.service
+sudo systemctl stop bluetooth.service
+sudo systemctl disable bluetooth.service
+sudo systemctl status bluetooth
+sudo apt-get --purge remove firefox-developer-edition-en-us-kbx
+sudo sh -c 'echo 1 >  /proc/sys/vm/drop_caches'
+free -h
+sudo apt autoclean
+sudo apt autoremove --purge
+cd home
+cd frigus
+cd /
+ls Whatsapp.desktop
+ls -a  Whatsapp.desktop
+ls -la  Whatsapp.desktop
+cd /usr/share/applications
+ls -l discord.desktop
+ls -l Telegram.desktop
+sudo leafpad Whatsapp.desktop
+cd Downloads
+tar -xjf firefox-106.0b6.tar.bz2
+ls firefox
+sudo mv firefox /usr/local
+cd .local/share/applications/firefox_dev.desktop
+touch .local/share/applications/firefox_dev.desktop
+chmod +x .local/share/applications/firefox_dev.desktop
+leafpad .local/share/applications/firefox_dev.desktop
+sudo leafpad /usr/share/applications/Whatsapp.desktop
+firefox-esr
+firefox
+where firefox
+sudo apt-get --purge remove firefox-esr
+ng version
+cd github
+cd angular/blog
+ng generate component user-list
+ng generate module user-auth
+ng g c user-auth/login
+ng g c todo
+npm audit fix
+cd github/angular/blog
+sudo apt-get install nautilus-terminal
+sudo apt-get install nautilus-open-terminal
+nautilus --help
+sudo apt search nautilus
+sudo apt-get install nautilus-extension-gnome-console
+sudo apt-get gnome-console
+sudo apt-get install gnome-console
+sudo apt-get install gnome-control-center
+sudo apt-get install nautilus-admin
+nautilus-admin
+sudo apt-get install nautilus-open-terminal-here
+nautilus-extension-gnome-terminal --help
+sudo apt-get install nautilus-extension-gnome-terminal-dbgsym
+nautilus-extension-gnome-terminal-dbgsym
+gnome-terminal
+gnome
+gnome-extensions-app
+gnome-shell-extension-tool
+gnome-shell-extension-tool --help
+man nautilus
+nautilus-extension-gnome-terminal
+sudo apt install nautilus-extension-gnome-terminal
+sudo apt install nautilus-extension-gnome-console
+sudo apt install nautilus-share
+nautilus
+gnome-cont
+gnome-control-center
+cd github/angular/
+ng new todo
+cd todo
+npm install json-server --save
+npx json-server --watch db.json
+cd github/Django
+python3 -v
+virtualenv
+virtualenv --help
+virtualenv -p python3
+virtualenv -p python3 .
+pip3 --version
+rm -rf project1
+rm -rf first_project
+l
+pip3 install django
+django-admin --version
+django-admin --help
+django-admin startproject project1
+cd project1
+source bin/activate
+pip3 freeze
+python -V
+python3 -V
+python3 manage.py createsuperuser
+cd project1/
+python3 manage.py startapp products
+python3 ../manage.py startapp products
+python3 ../manage.py startapp pro
+pip freeze
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
+source ../bin/activate
+python3 manage.py shell
+deactivate
+ssh gaspe@tty.sdf.org
+ssh --help
+cd github/angular
+ng new weather
+ng add @ng-bootstrap/ng-bootstrap
+ng g s weather
+ng g s services/weather
+ng g interface model/weather
+ng g interface model/weatherData
+git add -A
+git commit -am "Initial version 1"
+git remote add origin https://github.com/vaibhav4399/weather.git
+git add ".gitignore"
+git commit -m "updated gitignore"
+git commit -m "removed vscode"
+git push -u origin master
+cd .local
+cd applications
+leafpad firefox_dev.desktop
+cd share
+cd ..
+sudo mv blender-3.3.1-linux-x64.tar.xz /usr/local
+man tar
+cd /usr/local
+tar -xvf blender-3.3.1-linux-x64.tar.xz
+sudo tar -xvf blender-3.3.1-linux-x64.tar.xz
+sudo mv blender-3.3.1-linux-x64 blender
+cd blender
+sudo mv blender.desktop ~/.local/share/applications
+ls ~/.local/share/applications
+mv --help
+cp --help
+man mv
+sudo leafpad blender.desktop
+leafpad ~/.local/share/applications/blender.desktop
+sudo leafpad ~/.local/share/applications/firefox_dev.desktop
+find . -type f -name "*.png"
+find . -type f -name "icons"
+find . -type d -name "icons"
+cd -\\
+
+cd ~/Downloads
+ls blender_256x256.png
+sudo mv blender_256x256.png /usr/local/blender
+cd -
+sudo leafpad ~/.local/share/applications/blender.desktop
+git branch --help
+git branch -c hosting
+npm install express path --save
+git commit -am "Configured for hosting"
+git checkout hosting
+git push origin HEAD
+git checkout master
+git branch -d hosting
+git branch -D hosting
+git fetch
+git pull  origin master
+git pull --prune
+node --version
+npm --version
+git commit -m "corrected version"
+git log --oneline
+git commit -am "Configured production"
+git puh
+ng serve
+ng build --prod
+npm start
+git status
+git commit -m "configured"
+git commit -m "corrected html"
+git commit -m "corrected"
+git add .
+git commit -m "added https"
+git push
+cd Videos
+cd Tutorials
+cd Python
+cd 100\ Days\ of\ Code\ The\ Complete\ Python\ Pro
+ls
+find . -type f -name "*.srt" -exec rm -rf {} \;
+find . -type f -name "*.srt"
+find . -type f -name "*.vtt"
+cd github/angular/weather
+git pull --help
+git branch -a
+git branch -r
+cd github/Python/100
+touch debug.py
+gedit debug.py
+python3
+python3 debug.py
+python3 --help
+sudo apt-get install gnome-terminal-nautilus
+sudo apt-get install nautilus-extension-gnome-terminal
+nautilus -q
+sudo nautilus -q
+clear
+find . -type f -name "*.zshrc"
+sudo find . -type f -name "*.zshrc"
+sudo find . -type f -name ".zshrc"
+.zshrc
+leafpad .zshrc
+su
+sudo root
+sudo su
+cd ~
+sudo su root
+ssh rilma@tty.sdf.org
+ssh 
+ssh bandit.labs.overthewire.org
+who
+w
+ss | grep ssh
+ssh -J bandit0@bandit.labs.overthewire.org:2220
+ssh bandit.labs.overthewire.org -p 2220
+ssh bandit.labs.overthewire.org -l bandit0 -p 2220
+s
+ssh bandit.labs.overthewire.org -l bandit0 -p 2220
+cd Videos
+cd Tutorials
+cd Python
+cat ~/.ssh/id_rsa.pub
+cat /Users/USERNAME/.ssh/id_rsa.pub
+cat /Users/frigus/.ssh/id_rsa.pub
+ssh-agent sh -c 'ssh-add; ssh-add -L'
+ng serve
+git branch -a
+git add . 
+git commit -m "added farenhit option and corrected Responsive"
+git push
+git add .
+git commit -m "removed alert"
+git push
+npm init
+npm install --save express cors dotenv mysql2
+mpn install --save mysql
+npm install --save mysql
+cd -
+mkdir backend
+cd backend
+npx express-generator --no-view
+npm insta
+npm install
+npm install --save musql mysql2 cors
+npm install --save mysql mysql2 cors
+npm install --save-dev nodemon
+npm start
+npm install --save dotenv
+npm start
+clear
+npm start
+npm install --save axios
+node add.js
+dpkg -i discord-0.0.21.deb
+sudo dpkg -i discord-0.0.21.deb
+node ./models/fruits.js
+npm start
+clear
+npm start
+cd Downloads
+cd zoom-master
+ls
+express-generator
+express generator
+express --help
+man express
+cd backend
+npm init
+npm init -y
+npm install --save prisma typescript ts-node @types/node
+npx tcs init
+npx tcs --init
+npm init 
+npm install --save-dev typescript ts-node nodemon @types/node
+npx tsc --init
+clear
+npm install --save-dev prisma
+npx prisma --datasource-provider mysql
+npx prisma init --datasource-provider mysql
+python3
+mongod --help
+mongo --help
+mongo "mongodb+srv://sandbox.bsknqfd.mongodb.net/" --username m001-student --password m001-mongodb-basics
+cd backend
+npm init
+tsc init
+npm install --save-dev typescript ts-node nodemon @types/node
+npx tsc --init
+npm install express path mongoose --save
+npm dotenv --save
+npm install dotenv --save
+npm install @types/express @types/path @types/mongoose @types/dotenv --save-dev
+npm install @types/express  @types/mongoose @types/dotenv --save-dev
+npm install @types/path --save-dev
+sudo apt-get search games
+sudo apt search games
+sudo apt search steam
+sudo apt search virtual
+sudo apt search vpn
+sudo apt-get install riseup-vpn quicktun
+quicktun --help
+man quicktun
+anonsurf --help
+anonsurf start
+sudo anonsurf start
+anonsurf myip
+sudo anonsurf stop
+sudo apt search docker
+sudo apt search kubectl
+sudo apt-get install docker
+qemu
+wmdocker
+wmdocker --help
+nvm install --lts
+nvm list
+node -v
+npm -v
+sudo npm install@latest
+sudo npm install -g npm@latest
+sudo node -v
+npm install -g npm@latest
+sudo npm -v
+npm -v
+cd backend
+npm install winston --save-dev
+npm uninstall winston --save-dev
+npm install winston --save
+npm install @types/winston --save-dev
+nvm
+nvm current
+nvm currentclear
+npm init
+npm install --save-dev typescript ts-node nodemon @types/node
+npm install --save express path cors mongoose dotenv
+npm install --save-dev @types/express @types/mongoose @types/dotenv @types/cors
+tsc init
+npx tsc init
+npx tsc --init
+clear
+npx tcs --init
+npx tsc --init
+cd backend
+npm run dev
+npm install winston --save
+npm install @types/winston --save-dev
+cd backend
+npm run dev
+cd backend
+npm run dev
+cd backend
+npm install --save express-validator
+npm install --save-dev @types/express-validator
+npm run dev
+npm install --save gojs gojs-angular
+npm audit
+npm audit fix
+npm audit fix --force
+ng serve
+ng new hexagon
+ng new hexagon-angular
+npm install -g @angular/cli
+ng --version
+ng --help
+ng version
+ng new hexagon-angular
+npx create-react-app@latest hexagon-react
+npm install --save gojs gojs-angular
+ng g component hexagon
+lsof -i:4200
+kill -9 36269
+lsof -i:4200
+npm install -g @angular/cli
+clear
+ng serve
+lsof -i:4200
+npm init -y
+npm install --save express bycrpt morgon cors
+npm install --save express morgon cors
+npm install --save express morgan cors
+npm install --save-dev nodemon
+npm install --save sequalize mysql2
+npm install --save sequelize mysql2
+npm install ejs --save
+npm run dev
+clear
+npm install --save bootstrap
+npm run dev
+npm install --save jquery
+npm run dev
+npm install --save axios
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+nvm list
+npm -v
+nvm use 18.12.1
+node -v
+npm -v
+nvm search
+nvm --help
+nvm which
+nvm list
+node -v
+npm -v
+node card.js
+php 
+php --help
+php str.php
+clear
+php str.php
+npm run dev
+cd Downloads
+dpkg -i DeskTime-6.0.0-alpha.39.deb
+sudo dpkg -i DeskTime-6.0.0-alpha.39.deb
+clear
+dpkg -i slack-desktop-4.29.149-amd64.deb
+sudo dpkg -i slack-desktop-4.29.149-amd64.deb
+ps aux | grep firefox
+kill -9 3673
+kill -9 6508
+kill -9 firefox
+ls -a
+cd ~
+cd github
+ls
+cd plantArenaDev
+cd -
+cd ~/Videos/Tutorials/Database/MongoDBâ€ƒ³The\ Complete\ Developerâ€ƒ¹s\ Guide
+find . -type f -name "*.srt" 
+find . -type f -name "*.srt" -exec rm -rf {} \;
+mongo
+mongo "mongodb+srv://sandbox.bsknqfd.mongodb.net/" --username m001-student --password m001-mongodb-basics
+clear
+la
+mongod --help
+cd github
+mkdir mongodb
+cd mongodb
+mkdir test
+cd test
+sudo systemctl enable mongod.service
+sudo systemctl start mongod.service
+mongod
+ls
+ls -a
+cd ..
+mongo
+sudo systemctl disable mongod.service
+sudo systemctl status mongod.service
+clear
+man mongod
+find / -type d -name db
+sudo find / -type d -name db
+sudo find / -type d -name data/db
+sudo find / -type d -name "data/db"
+mongod --dppath "./test"
+mongod --dbpath "/data/db" --repair
+mongod --dbpath "./test" --repair
+gedit /etc/mongodb.conf
+ls /usr/local
+cd /var/lib/mongodb/diagnostic.data/ 
+sudo cd /var/lib/mongodb/diagnostic.data/ 
+/var/lib/mongodb/journal
+cd /var/lib/mongodb/journal
+mongod --dbpath="./test"
+sudo apt-get install mongodb
+sudo service mongodb status
+sudo service mongodb start
+sudo mongod --dbpath="./test"
+sudo systemctl stop mongod.service
+sudo systemctl daemon-reload
+sudo systemctl enable mongodb.service
+sudo systemctl start mongodb.service
+sudo systemctl unmask mongod.service
+sudo systemctl enable mongod.service
+sudo apt-get purge mongodb-org*
+sudo systemctl status mongod.service
+sudo systemctl status mongodb.service
+sudo apt-get list
+sudo apt-get lists
+sudo apt-get list-all
+sudo apt-get list -a
+sudo apt-get lists -a
+sudo apt-get --lists -a
+sudo apt-get 
+sudo apt list --installed
+sudo apt-get remove --purge mongodb-org*
+sudo apt list --installed | grep "mongo*"
+sudo apt-get remove --purge mongodb*
+sudo cd /var/lib/mongodb
+cd /var/lib/mongodb
+cd ..
+cd /var/log
+sudo rm -rf mongodb
+cd ~
+sudo apt-get install mongodb-org
+mongosh
+cd github/mongodb/test
+sudo apt list --installed | grep "mongodb*"
+clear
+sudo mongod --dbpath "./test"
+sudo rm /tmp/mongodb-27017.sock
+mongod --dbpath "./test"
+mongod
+mkdir -p data/db
+ls
+mongod --dbpath "./data/db"
+sudo systemctl start mongod
+sudo systemctl status mongod
+sudo systemctl stop mongod
+sudo systemctl status mongod
+mongo
